@@ -1,0 +1,101 @@
+body{
+    padding:0;
+    margin:0;
+    font:15px/1.5 arial,sans-serif;
+    background-color: powderblue;
+    background: url("teddy.jpg") no-repeat ;
+    background-size: 100%;
+    }
+.container{
+    width:100%;
+    text-align: center;
+    font-size: 30px;
+    color:#fffafd;
+    margin:auto;
+    background-color: #000000c0;
+
+}
+#navigation li{
+    display: inline;
+    padding :0px 20px;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+#navigation a:hover{
+    font-weight: lighter;
+    color: rgb(238, 234, 20);
+}
+
+ul{
+text-align: right;    
+margin: 0;
+padding: 0;
+font-size: 20px;
+}
+
+.box1{
+    text-align: left;
+    padding-top: 20px;
+    
+}
+li{
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 19px;
+}
+#box2{
+    
+    padding:4px;
+    height:25px;
+    width:100%;
+  }
+
+.button{
+    width: 100px;
+    height: 30px;
+}
+table,tr,td{
+    border:2px solid #000000 ;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+    font-size: large;
+}
+h1{
+    color: darkblue;
+}
+.images{
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+    font:italic;
+}
+.images input[type="text"]{
+    height: 30px;
+    width:300px;
+}
+footer{
+    padding:0;
+    margin-top: 20px;
+    background-color: #2e87eca1;
+}
+#c1{
+    text-align: left;
+    font-size: 30px;
+    color: #000000;
+
+}
+#c2{
+    float: right;
+    font-size: 30px;
+    color:#000000;
+}
